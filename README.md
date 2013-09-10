@@ -22,3 +22,7 @@ Restart collectd:
 ```bash
 service collectd restart
 ```
+
+Screenshots
+-----------
+![Main](https://github.com/Cosmologist/collectd-network-bandwidth-usage/blob/master/screenshots/counter.png?raw=true)
